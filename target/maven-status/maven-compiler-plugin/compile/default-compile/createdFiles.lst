@@ -1,0 +1,6 @@
+web\Servlet.class
+datos\UsuarioDaoJdbc.class
+domain\Usuario.class
+web\ServletLog.class
+datos\Conexion.class
+web\ServletReg.class
